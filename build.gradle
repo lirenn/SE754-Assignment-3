@@ -28,5 +28,10 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 }
 
+test {
+    useJUnit()
+    maxHeapSize = '1G'
+}
+
 // Define the main class for the application
 mainClassName = 'Dollar'
