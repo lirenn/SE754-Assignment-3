@@ -5,9 +5,6 @@
  * For more details take a look at the Java Quickstart chapter in the Gradle
  * User Manual available at https://docs.gradle.org/5.3.1/userguide/tutorial_java_projects.html
  */
- 
-group 'org.jacoco'
-version '1.0-SNAPSHOT'
 
 plugins {
     // Apply the java plugin to add support for Java
